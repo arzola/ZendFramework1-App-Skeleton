@@ -1,0 +1,14 @@
+{
+    "name": "icode.mx/zf1skeleton",
+    "description": "Zend Framework 1 App Skeleton",
+    "license": "MIT",
+    "require": {
+        "zendframework/zendframework1": "~1.12"
+    },
+    "authors": [
+        {
+            "name": "Oscar Arzola",
+            "email": "oscararzola@gmail.com"
+        }
+    ]
+}
